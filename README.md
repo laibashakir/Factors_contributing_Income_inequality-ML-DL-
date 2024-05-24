@@ -1,8 +1,7 @@
 # Factors_contributing_Income_inequality_Pakistan-ML-DL-
-Income Inequality findings from Pakistan Data:
 Income inequality has been a persistent issue in Pakistan, despite its economic growth in
 recent years. This brief report highlights the main trends and factors contributing to income
-inequality in the country using data up to 2021.
+inequality in the country using data up to 2021, Using different Machine learning and Deep learning models.
 
 **Key Findings:**
 A measure of income inequality known as the Gini coefficient has revealed that
